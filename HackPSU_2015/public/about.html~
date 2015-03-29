@@ -7,7 +7,7 @@
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<link rel="stylesheet" href="stylesheets/style.css">
+		<link rel="stylesheet" href="style.css">
 
 		<!--[if lt IE 9]>
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -21,22 +21,11 @@
 		</div>
 
 		<div class="contents">
-      <h1 class="title">StudyLogic <smallp> for Canvas</smallp> </h1>
+      <h1 class="title">What is StudyLogic? <smallp> for Canvas</smallp> </h1>
       
 			<p> <br> 
         
-				<b>Educational tool</b> used by a student to gauge and evaluate the intensity of each week of a semester.<br><br> StudyLogic utilizes the <b>Canvas API</b> to retrieve information about a student's class lecture times (Enrollments API), quiz dates (Quizzes API), and exam dates (Events API).<br><br> StudyLogic lets a student input information about their preferred study habits, which will be combined with the API data in order to:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;-Provide a bar graph that visualizes the intensity of each week of the semester with respect to hours spent studying or in class per week. <br>&nbsp;&nbsp;&nbsp;&nbsp;-Create a recommended study schedule for the weeks in which there are no tests or quizzes. <br>&nbsp;&nbsp;&nbsp;&nbsp;-Create a customized study schedule for a specific week in which there are tests and/or quizzes, with respect to how much extra effort the student has denoted they would like to put into review sessions. <br><br> The most efficient way to utilize this web app is at the beginning of a semester, in order to understand early on which weeks will require the most work, and also to establish a realistic study process that fits both the student's personal study habits and schedule. <br> <br>
-				Jut type in your first and last name!
-			</p>
-    
-      <datform><form>
-<br>
-<input type="text" name="firstname" value="first name">
-<br>
-<br>
-<input type="text" name="lastname" value="last name">
-<br><br>
-
+				<smallP> <b>Educational tool</b> used by a student to gauge and evaluate the intensity of each week of a semester.<br><br> StudyLogic utilizes the <b>Canvas API</b> to retrieve information about a student's class lecture times (Enrollments API), quiz dates (Quizzes API), and exam dates (Events API).<br><br> StudyLogic lets a student input information about their preferred study habits, which will be combined with the API data in order to:<br>&nbsp;&nbsp;&nbsp;&nbsp;-Provide a bar graph that visualizes the intensity of each week of the semester with respect to hours spent studying or in class per week. <br>&nbsp;&nbsp;&nbsp;&nbsp;-Create a recommended study schedule for the weeks in which there are no tests or quizzes. <br>&nbsp;&nbsp;&nbsp;&nbsp;-Create a customized study schedule for a specific week in which there are tests and/or quizzes, with respect to how much extra effort the student has denoted they would like to put into review sessions. <br><br> The most efficient way to utilize this web app is at the beginning of a semester, in order to understand early on which weeks will require the most work, and also to establish a realistic study process that fits both the student's personal study habits and schedule. <br> <br></p>
 </form></datform>
       <form action="/preferences.html"> <input type="submit" value="Submit"> </form>
      

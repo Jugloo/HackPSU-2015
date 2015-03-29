@@ -145,7 +145,7 @@ body {
 
 .contents {
     float: left;
-    width: 700px;
+    width: 800px;
 }
 
 .contentsimg {
