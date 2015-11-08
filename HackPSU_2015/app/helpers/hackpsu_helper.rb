@@ -1,3 +1,0 @@
-module HackpsuHelper
-
-end
